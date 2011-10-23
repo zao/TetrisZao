@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Inkscape (http://www.inkscape.org/) produces bloated SVG -->
+<svg
+ xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink"
+ version="1.0" width="360" height="120" >
+<defs>
+<g id="iblock">
+ <rect width="18" height="18" x="3" y="27" fill="#00f0f0" id="body" />
+ <path
+ d="M 0,24 L 0,24 C 0,24 0,24 0,24 L 3,27 L 21,27 L 24,24 L 0,24 z "
+ fill="#9ff" />
+ <path
+ d="M 0,24 L 0,48 L 3,45 L 3,27 L 0,24 z "
+ fill="#00d8d8" />
+ <path
+ d="M 24,24 L 24,48 L 21,45 L 21,27 L 24,24 z "
+ fill="#00d8d8" />
+ <path
+ d="M 0,48 L 24,48 L 21,45 L 3,45 L 0,48 z "
+ fill="#007878" />
+</g>
+<g id="jblock">
+ <rect width="18" height="18" x="123" y="3" fill="#0000f0" />
+ <path
+ d="M 120,0 L 120,0 L 123,3 L 141,3 L 144,0 L 120,0 z "
+ fill="#99f" />
+ <path
+ d="M 120,0 L 120,24 L 123,21 L 123,3 L 120,0 z "
+ fill="#0000d8" />
+ <path
+ d="M 144,0 L 144,24 L 141,21 L 141,3 L 144,0 z "
+ fill="#0000d8" />
+ <path
+ d="M 120,24 L 144,24 L 141,21 L 123,21 L 120,24 z "
+ fill="#000078" />
+</g>
+<g id="lblock">
+ <rect width="18" height="18" x="219" y="27" fill="#f0a000" />
+ <path
+ d="M 216,24 L 216,24 L 219,27 L 237,27 L 240,24 L 216,24 z "
+ fill="#fd9" />
+ <path
+ d="M 216,24 L 216,48 L 219,45 L 219,27 L 216,24 z "
+ fill="#d89000" />
+ <path
+ d="M 240,24 L 240,48 L 237,45 L 237,27 L 240,24 z "
+ fill="#d89000" />
+ <path
+ d="M 216,48 L 240,48 L 237,45 L 219,45 L 216,48 z "
+ fill="#785000" />
+</g>
+<g id="oblock">
+ <rect width="18" height="18" x="315" y="3" fill="#f0f000" />
+ <path
+ d="M 312,0 L 312,0 L 315,3 L 333,3 L 336,1.4210855e-014 L 312,0 z "
+ fill="#ff9" />
+ <path
+ d="M 312,0 L 312,24 L 315,21 L 315,3 L 312,0 z "
+ fill="#d8d800" />
+ <path
+ d="M 336,0 L 336,24 L 333,21 L 333,3 L 336,0 z "
+ fill="#d8d800" />
+ <path
+ d="M 312,24 L 336,24 L 333,21 L 315,21 L 312,24 z "
+ fill="#787800" />
+</g>
+<g id="sblock">
+ <rect width="18" height="18" x="51" y="99" fill="#00f000" />
+ <path
+ d="M 48,96 L 48,96 L 51,99 L 69,99 L 72,96 L 48,96 z "
+ fill="#9f9" />
+ <path
+ d="M 48,96 L 48,120 L 51,117 L 51,99 L 48,96 z "
+ fill="#00d800" />
+ <path
+ d="M 72,96 L 72,120 L 69,117 L 69,99 L 72,96 z "
+ fill="#00d800" />
+ <path
+ d="M 48,120 L 72,120 L 69,117 L 51,117 L 48,120 z "
+ fill="#007800" />
+</g>
+<g id="tblock">
+ <rect width="18" height="18" x="147" y="99" fill="#a000f0" />
+ <path
+ d="M 144,96 L 144,96 L 147,99 L 165,99 L 168,96 L 144,96 z "
+ fill="#d9f" />
+ <path
+ d="M 144,96 L 144,120 L 147,117 L 147,99 L 144,96 z "
+ fill="#9000d8" />
+ <path
+ d="M 168,96 L 168,120 L 165,117 L 165,99 L 168,96 z "
+ fill="#9000d8" />
+ <path
+ d="M 144,120 L 168,120 L 165,117 L 147,117 L 144,120 z "
+ fill="#500078" />
+</g>
+<g id="zblock">
+ <rect width="18" height="18" x="243" y="75" fill="#f00000" />
+ <path
+ d="M 240,72 L 240,72 L 243,75 L 261,75 L 264,72 L 240,72 z "
+ fill="#f99" />
+ <path
+ d="M 240,72 L 240,96 L 243,93 L 243,75 L 240,72 z "
+ fill="#d80000" />
+ <path
+ d="M 264,72 L 264,96 L 261,93 L 261,75 L 264,72 z "
+ fill="#d80000" />
+ <path
+ d="M 240,96 L 264,96 L 261,93 L 243,93 L 240,96 z "
+ fill="#780000" />
+</g>
+</defs>
+<g id="layer1">
+ <use x="0" y="0" xlink:href="#iblock"/>
+ <use x="24" y="0" xlink:href="#iblock"/>
+ <use x="48" y="0" xlink:href="#iblock"/>
+ <use x="72" y="0" xlink:href="#iblock"/>
+
+ <use x="0" y="0" xlink:href="#jblock"/>
+ <use x="0" y="24" xlink:href="#jblock"/>
+ <use x="24" y="24" xlink:href="#jblock"/>
+ <use x="48" y="24" xlink:href="#jblock"/>
+ 
+ <use x="0" y="0" xlink:href="#lblock"/>
+ <use x="24" y="0" xlink:href="#lblock"/>
+ <use x="48" y="0" xlink:href="#lblock"/>
+ <use x="48" y="-24" xlink:href="#lblock"/>
+
+ <use x="0" y="0" xlink:href="#oblock"/>
+ <use x="24" y="0" xlink:href="#oblock"/>
+ <use x="0" y="24" xlink:href="#oblock"/>
+ <use x="24" y="24" xlink:href="#oblock"/>
+
+ <use x="0" y="0" xlink:href="#sblock"/>
+ <use x="24" y="0" xlink:href="#sblock"/>
+ <use x="24" y="-24" xlink:href="#sblock"/>
+ <use x="48" y="-24" xlink:href="#sblock"/>
+
+ <use x="0" y="0" xlink:href="#tblock"/>
+ <use x="24" y="0" xlink:href="#tblock"/>
+ <use x="48" y="0" xlink:href="#tblock"/>
+ <use x="24" y="-24" xlink:href="#tblock"/>
+
+ <use x="0" y="0" xlink:href="#zblock"/>
+ <use x="24" y="0" xlink:href="#zblock"/>
+ <use x="24" y="24" xlink:href="#zblock"/>
+ <use x="48" y="24" xlink:href="#zblock"/>
+</g>
+</svg>
